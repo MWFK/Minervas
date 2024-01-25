@@ -1,0 +1,3 @@
+# MINERVA
+Custom GPT LangChain based Tutor
+Ongoing...
