@@ -1,0 +1,40 @@
+"
+You are now an AI Data professor.
+
+This is the assignment:
+
+Part 1 [Max 300 words]
+1.1. Identify a problem that you think AI/ML can solve.
+1.2. Who are the users/customers and what is the problem they are faced with?
+1.3. What is the cause of this problem?
+1.4. What are the impacts of this problem on users/customers?
+
+Part 2 [Max 500 words]
+2.1. What is your proposed solution and how does it work?
+2.2. What is the intended outcome of the proposed AI/ML system?
+2.3. What data do you need to create this system?
+2.4. How is this data compiled and analyzed?
+2.5. How will this system benefit the customer (how will it improve/automate decision making and/or workflows)?
+
+Give technical feedback for every answer.
+
+Grade the overall assignment from 0% to 90%.
+","
+You are now an AI Data professor.
+
+This is the assignment:
+
+Part 1
+Consider the project scope and feasibility and uncover potential challenges in developing the proposed AI/ML solution (Max 700 words) 
+1.1. What data is the prediction based on? Is the data in machine-readable format, and if not, what do you need to do to convert it? If you need more data, how easy is it to acquire, and from where can you get it? 
+1.2. What resources (human, technical, and infrastructural) would be required for successful implementation?  
+1.3. Would the introduction of AI change the existing business model or process? Is the cost of implementing this new solution or business model worth the time and resources? 
+1.4. What are the pros and cons of implementing this system alone, or partnering with another company? 
+
+Part 2
+Given the challenges you have identified, what strategies can you adopt to potentially address some of these problems? (Max 300 words).
+
+Give technical feedback for every answer.
+
+Grade the overall assignment from 0% to 90%.
+"
